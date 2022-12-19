@@ -1,19 +1,15 @@
 {
-    "token": "5164936577:AAF0UZ58WRYiVCRbN16ljXYZLa9zIlImf_M",
-    "_token": "b74d96bd607aa73da5b1ada7942b946a",
-    "_number": "79953006272",
-    "owners": [
-        1763665005,
-        1149300506,
-        5047191962
-    ],
+    "token": "",
+    "_token": "",
+    "_number": "",
+    "owners": [],
     "life_time": 10,
     "discount_value": 5,
     "need_friends": 10,
     "percent_for_admins": 50,
-    "bot_user_name": "YoupoloBot",
+    "bot_user_name": "",
     "db_file": "my_db.db",
-    "QIWI_TOKEN": "eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6IjJqbzk5ZC0wMCIsInVzZXJfaWQiOiI3OTIwNTM4NTk0MSIsInNlY3JldCI6ImI3OWE0OTgyNGM2N2Y4MGRiYTUwZjNhNWYyZmEwZTFlNmFhY2FmNjEwZTE1ZDliZGIxNGRjNmI0YjI0YmQ0ZmYifX0=",
+    "QIWI_TOKEN": "",
     "sleep_time": 0.04,
     "tariffs": {
         "tariff_1": [
